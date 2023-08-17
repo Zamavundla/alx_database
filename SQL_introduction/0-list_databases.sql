@@ -1,4 +1,3 @@
-/*These are available*/
 SHOW DATABASES;
-
+/*These are available*/
 

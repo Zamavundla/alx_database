@@ -1,3 +1,3 @@
+--script that shows all data bases
+--script written
 SHOW DATABASES;
-/*These are available*/
-

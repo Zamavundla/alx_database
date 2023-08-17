@@ -1,0 +1,1 @@
+This is the first database exercise by ALX Intro to Software Engineering

@@ -1,4 +1,3 @@
-/*
-These are available databases
-*/
+--These are available databases
+
 SHOW DATABASES;

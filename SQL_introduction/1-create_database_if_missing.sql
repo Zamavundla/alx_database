@@ -1,6 +1,2 @@
--- Check if the database exists
-USE hbtn_0c_0;
-
--- Create the database if it doesn't exist
-CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
-USE hbtn_0c_0;
+-- Attempt to drop the database (this won't cause an error if it doesn't exist)
+DROP DATABASE IF EXISTS hbtn_0c_0;

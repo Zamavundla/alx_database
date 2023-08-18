@@ -79,8 +79,8 @@ SELECT id, name FROM students WHERE batch_id = 3 ORDER BY created_at DESC LIMIT 
 
 ## Authors
 
-Your Name(s)
+ALX Team 
+Intro to Software Engineering 20hrs
+Student Zamavunla Duze
 
----
 
-Please replace "Project Name" and "Your Name(s)" with the appropriate project name and your name or the names of the contributors. You can use this README.md as a template for your project's documentation.

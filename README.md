@@ -1,7 +1,3 @@
-Sure, here's a README.md file that summarizes the provided information:
-
----
-
 # Project Name: MySQL Basics
 
 ## Requirements

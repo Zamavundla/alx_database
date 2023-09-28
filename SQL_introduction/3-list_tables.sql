@@ -1,3 +1,5 @@
--- Show tables in the mysql server
-USE Tables_in_mysql; 
+-- Write a script that lists all the tables of a database in your MySQL server.
+#!/usr/bin/env bash
+
 SHOW TABLES;
+

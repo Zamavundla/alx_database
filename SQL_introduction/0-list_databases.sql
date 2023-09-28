@@ -1,3 +1,5 @@
---script that shows all data bases
---script written
+-- Write a script that lists all databases of your MySQL server.
+
 SHOW DATABASES;
+
+
